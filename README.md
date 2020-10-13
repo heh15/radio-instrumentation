@@ -1,1 +1,1 @@
-This
+Instrumentation of the basic radio astronomy has a lot of confusing terms. Although there's a lot of CASA guide on how to calibrate the radio data from ALMA or VLA, it is not clear what each command does behand the screen. This repo is trying to clarify what each command does to help people better understand the basic mechanism of radio astronomy.
